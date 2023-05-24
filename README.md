@@ -3,8 +3,8 @@
 Discord bot for moderating AA discord server and more
 <br>
 <br>
-<img src="https://img.shields.io/github/last-commit/Scrippy/alaphaautomation-testing">
-<img src="https://img.shields.io/github/languages/top/Scrippy/alaphaautomation-testing">
+<img src="https://img.shields.io/github/last-commit/Alpha-Authority/aatv12">
+<img src="https://img.shields.io/github/languages/top/Alpha-Authority/aatv12">
 <br>
 </div>
 
