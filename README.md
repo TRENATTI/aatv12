@@ -13,7 +13,7 @@ Discord bot for moderating AA discord server and more
 <a href="#getting-started">Getting started</a>
 </div>
 
----------------
+---
 
 ### About:
 
@@ -21,16 +21,17 @@ This repository is dedicated to the development of a system called Alapha Automa
 
 Feel free to look through this, we've done a lot to reset and remove old tokens and keys that were found in this project. So far, what is here is secure and maybe not effiicient friendly, but it works good enough.
 
----------------
+---
 
 ### Prerequisites:
+
 - <a href="https://nodejs.org/en/download">Node</a>
 
----------------
+---
 
 ### Getting started:
 
-```bash 
-git clone -b testing-3 https://github.com/brplcc/alaphaautomation-testing.git
+```bash
+git clone https://github.com/brplcc/alaphaautomation-testing.git
 cd alphaautomation-testing
 ```
