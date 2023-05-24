@@ -1,0 +1,24 @@
+{
+  "name": "alapha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "axios": "^0.27.2",
+    "bloxy": "^5.0.34",
+    "discord.js": "^12.5.3",
+    "dotenv": "^16.0.2",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.3.0",
+    "noblox.js": "^4.13.1",
+    "nvm": "0.0.4",
+    "server.js": "^1.0.0"
+  }
+}
