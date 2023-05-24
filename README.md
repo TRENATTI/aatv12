@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Alapha Automations - Testing (AAT)</h2>
-Discord bot for moderating AA discord server and more
+ The official bot of Alpha Authority, dedicated to providing security, entertainment, and utility services. 
 <br>
 <br>
 <img src="https://img.shields.io/github/last-commit/Alpha-Authority/aatv12">
